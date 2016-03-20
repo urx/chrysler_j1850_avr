@@ -1,0 +1,43 @@
+
+    AVR J1850 VPW Interface, this firmware and hardware will realize an
+    interface between a cars J1850 VPW bus and RS232.
+    Copyright (C) 2004 Michael Wolf  
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+    ---
+
+    AVR J1850 VPW Interface, diese Firmware und Hardware realisiert ein
+    Interface zwischen einem J1850 VPW Fahrzeug Bus und RS232.
+    Copyright (C) 2004 Michael Wolf 
+
+    Dieses Programm ist freie Software. Sie können es unter den Bedingungen der
+    GNU General Public License, wie von der Free Software Foundation
+    veröffentlicht, weitergeben und/oder modifizieren, entweder gemäß
+    Version 2 der Lizenz oder jeder späteren Version.
+
+    Die Veröffentlichung dieses Programms erfolgt in der Hoffnung, daß es Ihnen
+    von Nutzen sein wird, aber OHNE IRGENDEINE GARANTIE, sogar ohne die implizite
+    Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK. 
+    Details finden Sie in der GNU General Public License.
+
+    Sie sollten eine Kopie der GNU General Public License zusammen mit diesem
+    Programm erhalten haben. Falls nicht, schreiben Sie an die Free Software Foundation,
+    Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+
+
+    You can contact me, Michael, by:
+    WWW:	http://www.mictronics.de
+    E-mail:	michael@mictronics.de
